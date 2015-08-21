@@ -1,4 +1,4 @@
-name: null
+name: LisaMagid
 favicon: null
 layout_spectrum: 0.31058
 typography_spectrum: 0.03319
@@ -24,6 +24,7 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.5
 purpose:
   - name: shares
     item: null
