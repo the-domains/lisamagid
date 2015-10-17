@@ -22,9 +22,9 @@ color:
     - '#064e92'
     - '#29b59f'
   brandStrength: 1
-  lightness: 0.6875
-  saturation: 0.5625
-  rhythmicContrast: 1
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose:
   - name: shares
     item: null
