@@ -1,13 +1,12 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-01T17:21:14.073Z'
-dateModified: '2016-06-01T17:21:13.687Z'
+datePublished: '2016-06-01T17:21:51.108Z'
+dateModified: '2016-06-01T17:21:49.811Z'
 title: ''
 tags:
   - ''
@@ -17,7 +16,8 @@ author:
     url: ''
 authors: []
 publisher: null
-starred: true
+starred: false
+url: the-upside-of-being-down/index.html
 _type: WebPage
 
 ---
