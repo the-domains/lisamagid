@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://www.stumbleupon.com/su/1TwlhO/:IvD12wPm:OFkblmOM/thoughtca
 inLanguage: null
 keywords: []
 description: 'In one and the same fire, clay grows hard and wax melts. Francis Bacon'
-datePublished: '2016-05-23T22:33:36.565Z'
-dateModified: '2016-05-23T22:18:48.226Z'
+datePublished: '2016-06-01T17:38:01.657Z'
+dateModified: '2016-05-23T22:33:44.714Z'
 author: []
 title: ''
 sourcePath: _posts/2015-07-02-in-one-and-the-same-fire-clay-grows-hard-and-wax-melts-fr.md
