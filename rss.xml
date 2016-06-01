@@ -4,8 +4,15 @@
         <description><![CDATA[LisaMagid]]></description>
         <link>https://thegrid.ai/lisamagid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 17:46:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 17:46:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lisamagid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Quotes]]></title>
+            <description><![CDATA[<p>In one and the same fire, clay grows hard and wax melts. -Francis Bacon</p>]]></description>
+            <link>https://thegrid.ai/lisamagid/quotes/index.html</link>
+            <guid isPermaLink="false">6f0d7ede-3390-4f06-a24e-697551412b9c</guid>
+            <pubDate>Wed, 01 Jun 2016 17:46:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ ]]></title>
             <description><![CDATA[<article><h1></h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43f7224bdb917dad784e1ebc875b88659eedc158.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f5ee086-1548-4b99-87a5-7c24391bc8f6.jpg</link>
             <guid isPermaLink="false">ccec66ef-c851-48a9-ac3d-a849a42d9510</guid>
             <pubDate>Wed, 01 Jun 2016 17:43:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quotes]]></title>
-            <description><![CDATA[<p>In one and the same fire, clay grows hard and wax melts. -Francis Bacon</p>]]></description>
-            <link>https://thegrid.ai/lisamagid/quotes/index.html</link>
-            <guid isPermaLink="false">6f0d7ede-3390-4f06-a24e-697551412b9c</guid>
-            <pubDate>Wed, 01 Jun 2016 17:42:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
