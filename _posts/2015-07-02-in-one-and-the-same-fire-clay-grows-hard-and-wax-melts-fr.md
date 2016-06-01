@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'In one and the same fire, clay grows hard and wax melts. -Francis Bacon'
-datePublished: '2016-06-01T17:42:56.723Z'
-dateModified: '2016-06-01T17:39:36.410Z'
+datePublished: '2016-06-01T17:46:47.869Z'
+dateModified: '2016-06-01T17:46:41.137Z'
 author: []
 title: ''
 sourcePath: _posts/2015-07-02-in-one-and-the-same-fire-clay-grows-hard-and-wax-melts-fr.md
