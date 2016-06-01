@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[LisaMagid]]></title>
         <description><![CDATA[LisaMagid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lisamagid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 22:33:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 01 Jun 2016 17:26:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lisamagid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lisa Magid]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f5ee086-1548-4b99-87a5-7c24391bc8f6.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f5ee086-1548-4b99-87a5-7c24391bc8f6.jpg</link>
+            <guid isPermaLink="false">ccec66ef-c851-48a9-ac3d-a849a42d9510</guid>
+            <pubDate>Wed, 01 Jun 2016 17:26:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38fffd00-6860-4acf-b625-ae29096427cd.jpg">]]></description>
+            <link>http://www.tickld.com/x/next-time-someone-says-women-arent-victims-of-harassment-show-them</link>
+            <guid isPermaLink="false">bb7d662d-259a-4eb8-b426-2c2886515037</guid>
+            <pubDate>Wed, 01 Jun 2016 17:26:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>In one and the same fire, clay grows hard and wax melts. Francis Bacon</p>]]></description>
