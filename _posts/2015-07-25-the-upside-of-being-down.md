@@ -1,24 +1,25 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: true
 keywords: []
-description: Sometimes humor arises out of depression and anxiety.
-title: The Upside of Being Down
+description: ''
+datePublished: '2016-06-01T17:21:14.073Z'
+dateModified: '2016-06-01T17:21:13.687Z'
+title: ''
 tags:
   - ''
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-datePublished: '2015-07-25T14:33:56.957Z'
-dateModified: '2015-07-25T14:33:56.957Z'
 sourcePath: _posts/2015-07-25-the-upside-of-being-down.md
-published: true
-url: the-upside-of-being-down/index.html
+author:
+  - name: ''
+    url: ''
+authors: []
+publisher: null
+starred: true
 _type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49865313-986b-41c7-8de0-640d3ebb16aa.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15f8f130-ad8d-4c74-8ae5-72e81b4a28ef.jpg)
