@@ -21,10 +21,10 @@ color:
     - '#ffb600'
     - '#696158'
     - '#ff0000'
-  brandStrength: 0.9375
-  lightness: 0.6875
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  brandStrength: 0.8125
+  lightness: 0.1875
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose:
   - name: shares
     item: null
