@@ -1,19 +1,4 @@
-name: LisaMagid
-favicon: null
-layout_spectrum: 0.30145
 typography_spectrum: 0.46374
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#0090a0'
@@ -25,7 +10,19 @@ color:
   lightness: 0.8125
   saturation: 0
   rhythmicContrast: 0.5
-purpose:
-  - name: shares
-    item: null
-    url: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.30145
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: LisaMagid
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+purpose: []
