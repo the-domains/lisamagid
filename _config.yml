@@ -19,10 +19,14 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: LisaMagid
+name: Lisa Magid
 cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Headshot
+    id: ccec66ef-c851-48a9-ac3d-a849a42d9510
+    type: content
 favicon: null
 purpose: []
